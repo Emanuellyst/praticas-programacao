@@ -5,8 +5,8 @@ Este repositório reúne exercícios de lógica de programação desenvolvidos a
 
 ## Estrutura do projeto
 
-- linguagens/
-  - python/
+- [linguagens/](./linguagens)
+  - [python/](./linguagens/python)
   - (outras linguagens no futuro)
 
 ## Objetivo
